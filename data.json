@@ -1,11 +1,11 @@
 {
   "name": "ragnabet-casino.uk",
   "site_name": "Ragnabet Casino | Deposit Bonus 100% up to €600 + 200 FS",
-  "html_head": "<meta name=\"google-site-verification\" content=\"S3-ck7y7GkDPNfwDAr8pZ1HgZWxJJi1DvK9ScvxdGGo\" />\n<link rel=\"canonical\" href=\"https://ragnabet-casino.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Ragnabet Casino | Deposit Bonus 100% up to €600 + 200 FS\">\n<meta property=\"og:description\" content=\"Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!\">\n<meta property=\"og:url\" content=\"https://ragnabet-casino.uk/\">\n<meta property=\"og:site_name\" content= \"Ragnabet Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n <meta name=\"twitter:title\" content=\"Ragnabet Casino | Deposit Bonus 100% up to €600 + 200 FS\">\n <meta name=\"twitter:description\" content=\"Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!\">\n",
+  "html_head": "<meta name=\"google-site-verification\" content=\"dUuWKWgFXAyIvrOqXX6-f7iGuoTX4RA7KM9szbR40Ik\" />\n<link rel=\"canonical\" href=\"https://ragnabet-casino.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Ragnabet Casino | Deposit Bonus 100% up to €600 + 200 FS\">\n<meta property=\"og:description\" content=\"Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!\">\n<meta property=\"og:url\" content=\"https://ragnabet-casino.uk/\">\n<meta property=\"og:site_name\" content= \"Ragnabet Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n <meta name=\"twitter:title\" content=\"Ragnabet Casino | Deposit Bonus 100% up to €600 + 200 FS\">\n <meta name=\"twitter:description\" content=\"Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!\">\n",
   "url": "ragnabet-casino.uk",
   "template": "tupchiy",
   "language_code": "en-GB",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -99,7 +99,7 @@
       "hero_image": "/uploads/c0163a833cd2013e04a693c2e2b09f5f.webp",
       "seo_title": "Ragnabet Casino | Deposit Bonus 100% up to €600 + 200 FS",
       "seo_description": "Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!",
-      "html_head": "<meta name=\"google-site-verification\" content=\"S3-ck7y7GkDPNfwDAr8pZ1HgZWxJJi1DvK9ScvxdGGo\" />\n<link rel=\"canonical\" href=\"https://ragnabet-casino.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Ragnabet Casino | Deposit Bonus 100% up to €600 + 200 FS\">\n<meta property=\"og:description\" content=\"Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!\">\n<meta property=\"og:url\" content=\"https://ragnabet-casino.uk/\">\n<meta property=\"og:site_name\" content= \"Ragnabet Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n <meta name=\"twitter:title\" content=\"Ragnabet Casino | Deposit Bonus 100% up to €600 + 200 FS\">\n <meta name=\"twitter:description\" content=\"Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!\">\n",
+      "html_head": "<meta name=\"google-site-verification\" content=\"dUuWKWgFXAyIvrOqXX6-f7iGuoTX4RA7KM9szbR40Ik\" />\n<link rel=\"canonical\" href=\"https://ragnabet-casino.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Ragnabet Casino | Deposit Bonus 100% up to €600 + 200 FS\">\n<meta property=\"og:description\" content=\"Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!\">\n<meta property=\"og:url\" content=\"https://ragnabet-casino.uk/\">\n<meta property=\"og:site_name\" content= \"Ragnabet Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n <meta name=\"twitter:title\" content=\"Ragnabet Casino | Deposit Bonus 100% up to €600 + 200 FS\">\n <meta name=\"twitter:description\" content=\"Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!\">\n",
       "faq_title": "FAQ",
       "hero_badge": "Sign up and Play",
       "cta_text": "Play",
@@ -361,8 +361,8 @@
       "question": "How do I take part in Ragnabet Casino tournaments?"
     }
   ],
-  "_generated_at": "2026-10-21T09:17:56.865Z",
+  "_generated_at": "2026-10-21T09:19:08.793Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-21T09:17:57.442Z",
-  "_deploy_trigger": "555dm7"
+  "_last_deploy": "2026-10-21T09:19:09.446Z",
+  "_deploy_trigger": "8ybbi"
 }
